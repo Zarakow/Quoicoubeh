@@ -4,7 +4,7 @@ const answers = document.getElementById('answers').getElementsByTagName('li');
 // Sample question and answers
 const questionText = "What is the capital of France?";
 const correctAnswer = "Paris";
-const allAnswers = ["London", "Berlin", "Madrid", "Paris"];
+const allAnswers = ["London", "Berlin", "Marseille", "Paris"];
 
 // Display question and answers
 question.textContent = questionText;
